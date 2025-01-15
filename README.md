@@ -92,7 +92,7 @@ Inside the **cve-map** folder, each JSON file records detailed information about
 - **function_names**: The functions impacted by the vulnerability (extracted via Tree-sitter).
 - **affected_version**: The version range affected by this CVE.
 - **binary_version**: The specific version used to compile our pre-built binaries for this vulnerability.
-- **old_files** and **new_files**: A breakdown of file paths and line ranges that changed before/after the patch, also extracted using Tree-sitter.
+- **old_files** and **new_files**: A list of file paths and line ranges that changed before/after the patch, also extracted using Tree-sitter.
 
 Feel free to explore these JSON files to find information about specific vulnerabilities. The corresponding pre-built binaries (for each architecture) are listed in our datasets.
 
@@ -101,7 +101,8 @@ Feel free to explore these JSON files to find information about specific vulnera
 ## Datasets
 
 We host all pre-built binaries on multiple datasets for easier access.
-* placeholder here:) *
+* [Kaggle](https://www.kaggle.com/datasets/anzzzzzzzzu/cvebinarysheet)
+
 
 ---
 
