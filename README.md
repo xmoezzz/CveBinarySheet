@@ -102,7 +102,6 @@ Feel free to explore these JSON files to find information about specific vulnera
 
 We host all pre-built binaries on multiple datasets for easier access.
 * [Kaggle](https://www.kaggle.com/datasets/anzzzzzzzzu/cvebinarysheet)
-* [Zenodo](https://zenodo.org/record/5810737)
 
 ---
 
