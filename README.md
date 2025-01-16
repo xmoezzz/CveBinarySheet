@@ -102,7 +102,7 @@ Feel free to explore these JSON files to find information about specific vulnera
 
 We host all pre-built binaries on multiple datasets for easier access.
 * [Kaggle](https://www.kaggle.com/datasets/anzzzzzzzzu/cvebinarysheet)
-
+* [OneDrive](https://websteru-my.sharepoint.com/:u:/g/personal/lingfengchen_webster_edu/ESshIW-1MrNHu2GppS4HkuMBTscqfhKMgzU2kAfRx-qvsQ?e=dIFvIi)
 ---
 
 ## Contributing
@@ -114,3 +114,14 @@ We welcome contributions, such as:
 
 To contribute, please open a [pull request](../../pulls) or file an [issue](../../issues). We appreciate your help in expanding and refining this resource!
 
+## Citation
+
+```bibtex
+@article{chen2025cvebinarysheet,
+  title={CveBinarySheet: A Comprehensive Pre-built Binaries Database for IoT Vulnerability Analysis},
+  author={Chen, Lingfeng},
+  journal={arXiv preprint arXiv:2501.08840},
+  year={2025},
+  doi={10.48550/arXiv.2501.08840}
+}
+```
