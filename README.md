@@ -103,6 +103,9 @@ Feel free to explore these JSON files to find information about specific vulnera
 We host all pre-built binaries on multiple datasets for easier access.
 * [Kaggle](https://www.kaggle.com/datasets/anzzzzzzzzu/cvebinarysheet)
 * [OneDrive](https://websteru-my.sharepoint.com/:u:/g/personal/lingfengchen_webster_edu/ESshIW-1MrNHu2GppS4HkuMBTscqfhKMgzU2kAfRx-qvsQ?e=dIFvIi)
+
+A large-scale dataset for BERT training built on top of BinaryCorp.
+* [OneDrive](https://websteru-my.sharepoint.com/:u:/g/personal/lingfengchen_webster_edu/EZM9IA7zznRJtTXWqRWlcQ0B_Jg42KJqdJNk6W3Bjo0UOw?e=1MVsLa)
 ---
 
 ## Contributing
